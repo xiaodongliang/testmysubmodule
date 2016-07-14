@@ -1,0 +1,3 @@
+[submodule "mymodule1"]
+	path = mymodule1
+	url = https://github.com/xiaodongliang/Test-Offline-by-NPM
